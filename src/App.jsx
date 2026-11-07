@@ -12,7 +12,7 @@ function App() {
 
         <main className="flex-1 p-8">
           <h1 className="mb-6 text-2xl font-bold text-slate-800">
-            Employee Management System Version-A
+            Employee Management System Dashboard
           </h1>
 
           <Dashboard />
